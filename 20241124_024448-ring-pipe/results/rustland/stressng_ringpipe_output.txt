@@ -1,0 +1,14 @@
+stress-ng: info:  [123988] setting to a 1 min, 30 secs run per stressor
+stress-ng: info:  [123988] dispatching hogs: 24 ring-pipe
+stress-ng: info:  [124073] ring-pipe: using 5 pipes with 4096 byte data, using read+write
+stress-ng: metrc: [123988] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per       RSS Max
+stress-ng: metrc: [123988]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)          (KB)
+stress-ng: metrc: [123988] ring-pipe     128159094     90.00    154.61    204.39   1423978.62      356989.87        16.62          3140
+stress-ng: metrc: [123988] miscellaneous metrics:
+stress-ng: metrc: [123988] ring-pipe          78622.96 pipe read+write calls per sec (harmonic mean of 24 instances)
+stress-ng: metrc: [123988] ring-pipe            307.12 MB per sec data pipe write (harmonic mean of 24 instances)
+stress-ng: info:  [123988] skipped: 0
+stress-ng: info:  [123988] passed: 24: ring-pipe (24)
+stress-ng: info:  [123988] failed: 0
+stress-ng: info:  [123988] metrics untrustworthy: 0
+stress-ng: info:  [123988] successful run completed in 1 min, 30.02 secs
