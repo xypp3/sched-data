@@ -1,0 +1,10 @@
+stress-ng: info:  [80031] setting to a 1 min run per stressor
+stress-ng: info:  [80031] dispatching hogs: 18 cpu
+stress-ng: metrc: [80031] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per       RSS Max
+stress-ng: metrc: [80031]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)          (KB)
+stress-ng: metrc: [80031] cpu              376536     60.01    359.81      0.07      6274.80        1046.28        33.32          3792
+stress-ng: info:  [80031] skipped: 0
+stress-ng: info:  [80031] passed: 18: cpu (18)
+stress-ng: info:  [80031] failed: 0
+stress-ng: info:  [80031] metrics untrustworthy: 0
+stress-ng: info:  [80031] successful run completed in 1 min

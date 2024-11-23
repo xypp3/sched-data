@@ -1,0 +1,2 @@
+stressor,bogo_ops,real_time,usr_time,sys_time,bogo_ops_real_time,bogo_ops_usr_sys_time,cpu_used_per_instance,rss_max
+cpu,394594.0,60.0,358.95,0.08,6576.24,1099.07,49.86,3768.0

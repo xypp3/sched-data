@@ -1,0 +1,13 @@
+stress-ng: info:  [86079] setting to a 1 min run per stressor
+stress-ng: info:  [86079] dispatching hogs: 6 aio
+stress-ng: metrc: [86079] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per       RSS Max
+stress-ng: metrc: [86079]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)          (KB)
+stress-ng: metrc: [86079] aio               70460     60.19      0.32      0.14      1170.56      153160.26         0.13          3276
+stress-ng: metrc: [86079] miscellaneous metrics:
+stress-ng: metrc: [86079] aio                   15.08 async I/O signals per sec (harmonic mean of 6 instances)
+stress-ng: metrc: [86079] aio                 5430.00 async I/O signals (total of 6 instances)
+stress-ng: info:  [86079] skipped: 0
+stress-ng: info:  [86079] passed: 6: aio (6)
+stress-ng: info:  [86079] failed: 0
+stress-ng: info:  [86079] metrics untrustworthy: 0
+stress-ng: info:  [86079] successful run completed in 1 min
