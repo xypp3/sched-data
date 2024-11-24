@@ -1,0 +1,10 @@
+stress-ng: info:  [274467] setting to a 1 min, 30 secs run per stressor
+stress-ng: info:  [274467] dispatching hogs: 6 aio
+stress-ng: metrc: [274467] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [274467]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [274467] aio              111739     90.06      0.35      0.49      1240.65      133796.57
+stress-ng: info:  [274467] skipped: 0
+stress-ng: info:  [274467] passed: 6: aio (6)
+stress-ng: info:  [274467] failed: 0
+stress-ng: info:  [274467] metrics untrustworthy: 0
+stress-ng: info:  [274467] successful run completed in 1 min, 30.19 secs
